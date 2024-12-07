@@ -49,4 +49,4 @@ function* prod(arr: string[], n: number): Generator<string[]> {
     console.log("Result:", total);
   }
   
-  solve("./input2.txt");
+  solve("day7/task1/input2.txt");
