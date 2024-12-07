@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "start": "deno run --allow-all /Users/artpani/projects/advent-of-code-2024/main.ts"
+  }
+}
